@@ -13,7 +13,7 @@ export default function Home() {
                 target="_blank"
                 href="https://dexscreener.com/solana/hcpbh3owupmmydqucjrfnc2wgsgyvknxpdj8eg6sckn"
               >
-                <DexScreener width={40} height="auto" />
+                <DexScreener width={40} />
               </a>
             </li>
             <li>
