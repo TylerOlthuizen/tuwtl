@@ -5,7 +5,7 @@ import { FaTelegramPlane } from "react-icons/fa";
 
 export default function Home() {
   return (
-    <div className="p-8 site-background">
+    <div className="p-8 pb-0 site-background">
       <main className="min-h-screen p-8 relative container mx-auto">
         <nav className="absolute top-0 left-0">
           <ul className="flex gap-6 flex-row items-center nav-list">
