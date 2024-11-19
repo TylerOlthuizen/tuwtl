@@ -18,12 +18,12 @@ export default function Home() {
             </li>
             <li>
               <a href="https://x.com/tuwtl" target="_blank">
-                <FaXTwitter size={40} />
+                <FaXTwitter size={40} color="white" />
               </a>
             </li>
             <li>
               <a href="https://t.me/tuwtl" target="_blank">
-                <FaTelegramPlane size={40} />
+                <FaTelegramPlane size={40} color="white" />
               </a>
             </li>
           </ul>
