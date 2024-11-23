@@ -11,7 +11,7 @@ export default function Home() {
             <li>
               <a
                 target="_blank"
-                href="https://dexscreener.com/solana/hcpbh3owupmmydqucjrfnc2wgsgyvknxpdj8eg6sckn"
+                href="https://dexscreener.com/solana/HcPBh3owupmmYdQuCJrFNc2wGSgYVKNxpdJ8eg6sCkN"
               >
                 <DexScreener width={35} />
               </a>
