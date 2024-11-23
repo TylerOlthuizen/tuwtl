@@ -4,7 +4,7 @@ import { FaTelegramPlane } from "react-icons/fa";
 
 export default function Home() {
   return (
-    <div className="p-8 xl:p-10 pb-0 site-background">
+    <div className="p-8 lg:p-12 xl:p-10 pb-0 site-background">
       <main className="min-h-screen relative mx-auto">
         <nav className="absolute top-0 left-0">
           <ul className="flex gap-8 flex-row items-center nav-list">
@@ -13,7 +13,7 @@ export default function Home() {
                 target="_blank"
                 href="https://dexscreener.com/solana/hcpbh3owupmmydqucjrfnc2wgsgyvknxpdj8eg6sckn"
               >
-                <DexScreener width={40} />
+                <DexScreener width={35} />
               </a>
             </li>
             <li>
